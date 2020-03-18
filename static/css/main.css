@@ -1,0 +1,27 @@
+    img{ 
+        width: 8%; 
+        height: 8%; 
+        object-fit: contain; 
+    }
+    
+    h5{
+        text-align: center;
+    }
+
+	body{
+		background-color: #ebeff5;
+	}
+
+
+	#total-orders{
+		background-color:  	#40E0D0;
+	}
+
+
+	#orders-delivered{
+		background-color: #48D1CC;
+	}
+
+	#orders-pending{
+		background-color: #00CED1;
+	}
